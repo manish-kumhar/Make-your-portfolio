@@ -1,8 +1,6 @@
 'use strict';
 
-
-
-// element toggle function
+// element toggle function created
 const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
 
